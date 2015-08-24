@@ -1,0 +1,14 @@
+
+/**公用**/
+.body{background-color: #f2f2f2;}
+.comWidth{width:90%;margin-left:auto;margin-right: auto;}
+
+/**login登录***/
+.header{width: 100%;background-color: #ff6100;text-align: center;line-height: 2.5em;font-size: 1.5em;color: #fff;}
+.title{padding-left: 2em;}
+.register{font-size: 0.8em;padding-right: 1em;}
+/***input**/
+.iptname{line-height: 4em;}
+.usernameInpt{width: 100%;margin-top: 2em;background-color: #fff;}
+.ipt{line-height: 4em;border:#cacaca solid 1px;text-indent:1em;}
+.btn{line-height: 3em;text-align: center;border-radius: .2em;color: #fff;background-color: #ff6100;font-size: 1.5em;}
